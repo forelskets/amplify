@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <AmplifySignOut />
-        <h2>Hello</h2>
+        <h2>Hi</h2>
       </header>
     </div>
   );
